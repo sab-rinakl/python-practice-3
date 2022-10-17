@@ -6,4 +6,4 @@ print(frame)
 
 # set index of dataframe to Car Name and print
 frame = frame.set_index('Car Name')
-print(frame.set_index('Car Name'))
+print(frame)
